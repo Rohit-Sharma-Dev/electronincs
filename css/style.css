@@ -1,0 +1,45 @@
+.nav_bar_section{
+    width: 100%;
+    margin-bottom: 5.208334vw;
+}
+
+.first_nav_bar {
+    height: 88px;
+}
+
+.logo_div {
+    width: 20%;
+}
+
+.address_div {
+    width: 20%;
+}
+
+.search_bar_div {
+    width: 40%;
+}
+
+.left_content {
+    width: 20%;
+}
+
+.search__bar {
+width:39.1667vw;
+height: 100%;
+}
+
+.search__bar input {
+    width: 93.6%;
+    height: 48px;
+    border: none;
+    background-color:#FCFCFC;
+}
+
+.left_content{
+    display: flex;
+    justify-content: space-around;
+}
+.menu_list{
+    display: flex;
+    justify-content: space-between;
+}

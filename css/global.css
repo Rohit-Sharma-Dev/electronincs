@@ -1,0 +1,328 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 2vw;
+}
+
+
+
+/* ****************HEADER.....1...********************* */
+
+
+.nav_bar_section{
+    width: 100%;
+    margin-bottom: 5.208334vw;
+}
+
+.first_nav_bar {
+    height: 88px;
+}
+
+.logo_div {
+    width: 20%;
+}
+
+.location {
+    width: 20%;
+}
+
+.search-bar{
+    width: 40%;
+}
+
+.left_content {
+    width: 20%;
+}
+
+.search-bar {
+width:39.1667vw;
+height: 100%;
+}
+
+.search__bar input {
+    width: 93.6%;
+    height: 48px;
+    border: none;
+    background-color:#FCFCFC;
+}
+
+
+
+
+/* **************************lower header***************************** */
+.scrollmenu {
+    background-color: #fff;
+    /* white-space: nowrap;  */
+    width: 100%;
+  }
+
+  
+  .scrollmenu a {
+    display: inline-block;
+    color: #1b1a1a;
+    font-size: 0.72rem;
+    padding: 14px;
+    margin-right: 2px;
+    text-decoration: none;
+  }
+  .image-head{
+      object-fit: cover;
+  }
+  /* img{
+    object-fit: cover;
+} */
+.filter-txt{
+    font-size: 0.57rem;
+}
+
+
+  /* ******************SECTION 1******************* */
+
+
+.image-head{
+    object-fit: cover;
+}
+
+a{
+    display: flex;
+    justify-content: ;
+}
+.image-head{
+    width: 100%;
+    object-fit: cover;
+}
+.btn{
+    border-radius:2rem ;
+    color: #fff;
+    background-color: black;
+    width: 14.565rem;
+    height: 4rem;
+}
+.sec-text1{
+    font-size: 2rem;
+    position: absolute;
+    left: 3rem;
+    top: 5rem;
+}
+.sectxt2{
+    font-size: 3rem;
+    top: 7rem;
+}
+.sectxt3{
+    top: 10rem;
+    font-size: 1.5rem;
+}
+.btn{
+    top: 12rem;
+    width: 8rem;
+    height: 2rem;
+    font-size: 1rem;
+}
+
+
+/* ******************SECTION_@2**************************** */
+.sec2-image{
+    width: 14rem;
+}
+
+.section2{
+    display: flex;
+    margin: 2em;
+}
+
+/* ************************SECTION_@3********************* */
+.sec-txt3{
+    display: flex;   
+    justify-content: center;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.sec3-list:hover{
+    color: #146CDA;
+}
+
+hr{
+    border: 1px solid #146CDA;
+}
+.colrblue{
+    color: #146CDA;
+}
+li{
+    margin: 1rem;
+}
+body { font-family: sans-serif; }
+
+.carousel {
+  background: #EEE;
+}
+
+/* /*****************scrolable**************** */
+
+.cards{
+    margin: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-right:2rem ; */
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card-perc{
+    margin: 0.2rem;    
+}
+.card-perc{
+    background-color: #E1FFF1;
+    color: #146CDA;
+    border-radius: 0.8rem;
+    width: 2rem;
+    height: 0.6rem;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img-huwaie{
+    width: 5.6rem;
+    margin-left: 2rem;
+}
+#img-watch{
+    width: 7rem;
+}
+.img-imp{
+    width: 9rem;
+    object-fit: cover;
+    display: flex;
+    margin: 0.7rem;
+} 
+.card-text{
+    font-size: 11px;
+}
+
+/* *****************SECTION-4***************** */
+
+.section4{
+    display: flex;
+    flex-direction: column;
+}
+.sec4-txt4{
+    position: absolute;
+    top: 63rem;
+    left: 4rem;
+}
+
+/* ****************section-5*************** */
+
+.sec5-upper{
+    margin: 2rem;
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sec5-btn{
+    width: 5rem;
+}
+.sec5-scrollbar{
+    margin: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* ***************section-6********************* */
+.section-6{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+}
+
+
+/* *********************section-7***************** */
+
+/* uses same classes as given in section5 */
+
+/* *******************section-8***************** */
+.section-8{
+    margin: 3rem;
+}
+.bar-section{
+    border: 1px solid gray;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+/* ***************************section-9************************* */
+.section-9{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+}
+.card-img{
+    object-fit: cover;
+}
+.car-title{
+    font-size: 15px;
+    margin-bottom: 0;
+}
+#horizontal{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0rem;
+    /* justify-content: ; */
+}
+.section-9 a{
+    display: flex;
+    position: absolute;
+    left: 1.33rem;
+    margin-bottom: 2rem;
+
+}
+
+
+/* ****************sec-10***************** */
+.sec10{
+    box-shadow: #146CDA;
+    height: 3rem;
+    background-color: #146CDA;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.section-10 input{
+    position: relative;
+    margin-top: 2rem;
+    background-color: #050505;
+
+}
+.section-10 img{
+    position: absolute;
+    /* display: flex; */
+}
+.sec10-searchbar{
+    padding-top:2rem ;
+    display: flex;
+}
+
+
+
+/* ******************section11********************** */
+
+.sec11-1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.sec11-text span{
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
